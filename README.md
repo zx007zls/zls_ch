@@ -1,3 +1,3 @@
-# zx007zls.github.io
+# zx007zls.github.io/zls_ch
 
-This is my homepage.
+This is my Chinese homepage.
